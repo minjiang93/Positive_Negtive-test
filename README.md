@@ -1,4 +1,4 @@
-# Positive_Negtive-test
+# Positive_Negtive-unittest
 Test simple program with Positive and Negative method.
 Create Junit test under dos command line.
 
